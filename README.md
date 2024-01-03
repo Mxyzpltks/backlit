@@ -1,2 +1,2 @@
 # backlit
-website for Backlit studio
+website for Backlit photography
