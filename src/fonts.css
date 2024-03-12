@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,900;1,700;1,800;1,900&display=swap');
+
+@font-face {
+    font-family: Millgary;
+    src: url('./lib/fonts/Millgary/Millgary - Personal Use.otf')  format("opentype");
+}
+
+@font-face {
+    font-family: Alovera-Regular;
+    src: url('./lib/fonts/Aloevera/Aloevera-Regular.otf')  format("opentype");
+}
+
+@font-face {
+    font-family: Alovera-RegularItalic;
+    font-style: italic;
+    src: url('./lib/fonts/Aloevera/Aloevera-Aloevera-RegularItalic.otf')  format("opentype");
+}
